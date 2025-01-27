@@ -15,7 +15,7 @@ if __name__ == "__main__" :
 
     # wywołanie funkcji trenującej model
     print("Trening modelu:")
-    train_model(model, train_loader, criterion, optimizer, epochs=5)
+    train_model(model, train_loader, criterion, optimizer, epochs=10)
 
     # ocena modelu na zbiorze testowym
     print("Testowanie modelu:")
