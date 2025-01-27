@@ -54,7 +54,7 @@ Macierz pomyłek i raport klasyfikacji:
 
 
 # Wnioski
-Przeprowadzone przez nas zmiany nie wpływają w żaden zauważalny sposób na dokładność modelu, zatem ostatecznie pozostajemy przy wersji V1, dającej najbardziej zadowalające rezultaty:
+Przeprowadzone przez nas zmiany nie wpływają w żaden zauważalny sposób na dokładność modelu, zatem ostatecznie pozostajemy przy wersji V2, dającej najbardziej zadowalające rezultaty:
 ### Funkcja straty: CrossEntropyLoss
 ### Optymalizator: Adam
-### Liczba epok: 5
+### Liczba epok: 10
