@@ -38,8 +38,8 @@ Macierz pomyłek i raport klasyfikacji:
 ### Dokładność modelu: 0.91
 
 # V6
-### Funkcja straty: 
-### Optimizer: 
+### Funkcja straty: weighted CrossEntropyLoss
+### Optimizer: SGD
 ### Liczba epok: 
 Macierz pomyłek i raport klasyfikacji:
 ![obraz](https://github.com/user-attachments/assets/57971aaa-84fd-412b-bec2-79ed84033ad9)
